@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="title_activity_disp_images">DispImages</string>
+
+    <string-array name="oses">
+        <item>History</item>
+        <item>Marvel Universe</item>
+        <item>Friends</item>
+    </string-array>
+
+    <string-array name="logos">
+        <item>Who was the first President of the United States?</item>
+        <item>Who is the current President of the United States?</item>
+        <item>What year was the Civil War?</item>
+    </string-array>
+
+    <string-array name="Friends">
+        <item>In the episode "The one where no one is ready" what did Joey drink?</item>
+        <item>Ross reminds Rachel that they "____ __ _ _____"</item>
+        <item>True or False? Phoebe had her brothers kids?</item>
+    </string-array>
+
+    <string-array name="Marvel">
+        <item>What planet is Thanos from?</item>
+        <item>What is Iron Mans real name?</item>
+        <item>Where did the final battle in Infinity War take place?</item>
+    </string-array>
+</resources>
